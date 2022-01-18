@@ -38,7 +38,7 @@ const Invest = () => {
             </div>
             <div>
               <Link href="/trading/sell">
-                <div className={`${styles.trade}`}>Sell Stocks</div>
+                <div className={`${styles.trade}`}>Sell Stocksf </div>
               </Link>
             </div>
           </div>
